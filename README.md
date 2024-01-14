@@ -1,4 +1,4 @@
-# functions_1
+# functions1
 
 Following was the task that i performed:
 
