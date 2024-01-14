@@ -1,3 +1,5 @@
+#Calculate the total cost of Holiday. It includes the combined cost of hotel, plane and car.
+
 city_flight=input('Enter the city you are flying to: ')
 num_nights= int(input('Enter the number of nights you will be staying at the hotel: '))
 rental_days= int(input('Enter the number of days you will be hiring car: '))
